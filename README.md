@@ -39,7 +39,7 @@ to add missing requirements and to drop unused requirements.
 ```
 goo build . (in each directory)
 ```
-
+- [Go Modules references](https://go.dev/ref/mod)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-polzer-hi-o/)
 
