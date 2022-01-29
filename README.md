@@ -30,6 +30,11 @@ Options
 | cname | Look CNAME's for particular Host |
 | mx | Look MX (mail exchange) records for particular Host |
 
+### Pull dependencies
+```
+go mod tidy
+```
+to add missing requirements and to drop unused requirements.
 #### Build binary 
 ```
 goo build . (in each directory)
